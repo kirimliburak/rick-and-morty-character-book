@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/rick-and-morty-character-book/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/rick-and-morty-character-book/static/js/main.a78c28bd.chunk.js",
-    "main.js.map": "/rick-and-morty-character-book/static/js/main.a78c28bd.chunk.js.map",
-    "runtime-main.js": "/rick-and-morty-character-book/static/js/runtime-main.b8eda384.js",
-    "runtime-main.js.map": "/rick-and-morty-character-book/static/js/runtime-main.b8eda384.js.map",
-    "static/js/2.ad10192a.chunk.js": "/rick-and-morty-character-book/static/js/2.ad10192a.chunk.js",
-    "static/js/2.ad10192a.chunk.js.map": "/rick-and-morty-character-book/static/js/2.ad10192a.chunk.js.map",
-    "static/js/3.8f2f5506.chunk.js": "/rick-and-morty-character-book/static/js/3.8f2f5506.chunk.js",
-    "static/js/3.8f2f5506.chunk.js.map": "/rick-and-morty-character-book/static/js/3.8f2f5506.chunk.js.map",
+    "main.css": "/rick-and-morty-character-book/static/css/main.7024d5ab.chunk.css",
+    "main.js": "/rick-and-morty-character-book/static/js/main.5dde6066.chunk.js",
+    "main.js.map": "/rick-and-morty-character-book/static/js/main.5dde6066.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-character-book/static/js/runtime-main.fda818f3.js",
+    "runtime-main.js.map": "/rick-and-morty-character-book/static/js/runtime-main.fda818f3.js.map",
+    "static/js/2.0fd10252.chunk.js": "/rick-and-morty-character-book/static/js/2.0fd10252.chunk.js",
+    "static/js/2.0fd10252.chunk.js.map": "/rick-and-morty-character-book/static/js/2.0fd10252.chunk.js.map",
+    "static/js/3.e51f326f.chunk.js": "/rick-and-morty-character-book/static/js/3.e51f326f.chunk.js",
+    "static/js/3.e51f326f.chunk.js.map": "/rick-and-morty-character-book/static/js/3.e51f326f.chunk.js.map",
     "index.html": "/rick-and-morty-character-book/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/rick-and-morty-character-book/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ad10192a.chunk.js.LICENSE.txt": "/rick-and-morty-character-book/static/js/2.ad10192a.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/rick-and-morty-character-book/static/media/logo.103b5fa1.svg"
+    "static/css/main.7024d5ab.chunk.css.map": "/rick-and-morty-character-book/static/css/main.7024d5ab.chunk.css.map",
+    "static/js/2.0fd10252.chunk.js.LICENSE.txt": "/rick-and-morty-character-book/static/js/2.0fd10252.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8eda384.js",
-    "static/js/2.ad10192a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a78c28bd.chunk.js"
+    "static/js/runtime-main.fda818f3.js",
+    "static/js/2.0fd10252.chunk.js",
+    "static/css/main.7024d5ab.chunk.css",
+    "static/js/main.5dde6066.chunk.js"
   ]
 }
