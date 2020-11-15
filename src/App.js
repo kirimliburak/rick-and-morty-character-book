@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Component } from 'react';
+import { CharacterList } from './components/character-list/character-list.component';
 
 class App extends Component {
   constructor() {
@@ -21,7 +22,7 @@ class App extends Component {
         .then(chars => chars.results.map(char => tempArr.push(char)));
       count++;
     }
-    this.setState({ characters: tempArr }, () => {});
+    this.setState({ characters: tempArr }, () => { });
     console.log("Characters: ");
     console.log(this.state.characters);
   }
@@ -29,9 +30,8 @@ class App extends Component {
   render() {
     return (
       <div className="App" >
-        {this.state.characters.map(character => (
-          <h1 key={character.id}>{character.name}</h1>
-        ))}
+        <h1>Rick and Morty Character Book</h1>
+        <CharacterList characters={this.state.characters} />
       </div>
     );
   }
